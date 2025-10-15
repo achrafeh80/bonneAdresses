@@ -41,9 +41,9 @@ npm install
 
 #### c. Configurer la base de données
 
-Sous PowerShell, exécuter :
+exécuter :
 
-```powershell
+```bash
 $env:MONGO_URI="mongodb://127.0.0.1:27017/mes-bonnes-adresses"
 ```
 
